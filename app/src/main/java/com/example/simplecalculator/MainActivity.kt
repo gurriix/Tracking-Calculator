@@ -388,7 +388,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         }
         permissions.add(Manifest.permission.ACCESS_WIFI_STATE)
         permissions.add(Manifest.permission.CHANGE_WIFI_STATE)
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S) {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
             permissions.add(Manifest.permission.NEARBY_WIFI_DEVICES)
         }
 

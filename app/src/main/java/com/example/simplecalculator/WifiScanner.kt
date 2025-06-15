@@ -105,7 +105,7 @@ class WifiScanner(private val context: Context) {
             Manifest.permission.ACCESS_WIFI_STATE,
             Manifest.permission.CHANGE_WIFI_STATE
         )
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S) {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
             permissionsToGrant.add(Manifest.permission.NEARBY_WIFI_DEVICES)
         }
 

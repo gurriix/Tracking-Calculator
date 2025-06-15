@@ -163,7 +163,6 @@ class BluetoothScanner(private val context: Context) {
                 basePermissions.add(Manifest.permission.BLUETOOTH_CONNECT)
             }
         } else {
-
             basePermissions.add(Manifest.permission.BLUETOOTH)
         }
 
