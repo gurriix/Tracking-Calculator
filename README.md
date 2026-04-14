@@ -34,9 +34,9 @@ The following data points are captured to showcase the potential for unique digi
 
 In alignment with world-class engineering standards, this project is guided by the following principles:
 
-**Responsibility & Transparency:** Following the "Freedom and Responsibility" model, this tool aims to provide "constructive feedback" to the development community regarding the use of user resources.
-**Resource Efficiency:** The tracking engine is designed to be lean, ensuring it does not interfere with the primary utility, reflecting the principle of acting in the best interest of the system's performance.
-**Security Advocacy:** By exposing these methods, the goal is to drive a shift toward **Secure Development Lifecycles (SDLC)** and more rigorous data protection standards.
+* **Responsibility & Transparency:** Following the "Freedom and Responsibility" model, this tool aims to provide "constructive feedback" to the development community regarding the use of user resources.
+* **Resource Efficiency:** The tracking engine is designed to be lean, ensuring it does not interfere with the primary utility, reflecting the principle of acting in the best interest of the system's performance.
+* **Security Advocacy:** By exposing these methods, the goal is to drive a shift toward **Secure Development Lifecycles (SDLC)** and more rigorous data protection standards.
 
 ---
 **Disclaimer:** This project is for educational and security research purposes only. It is intended to help developers and users understand the mechanics of mobile tracking and to foster more private and secure application environments.
